@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ### 2. Run Neo4j locally
 - Download Neo4j Community Edition from https://neo4j.com/download/
-- Start the Neo4j server (default bolt://localhost:7687)
+- Start the Neo4j serverS
 
 ### 3. Build the Knowledge Graph
 ```sh
