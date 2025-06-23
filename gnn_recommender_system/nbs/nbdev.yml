@@ -1,9 +1,0 @@
-project:
-  output-dir: _docs
-
-website:
-  title: "generative-ai"
-  site-url: "https://karanyadav14.github.io/generative-ai"
-  description: ""
-  repo-branch: main
-  repo-url: "https://github.com/karanyadav14/generative-ai"
